@@ -1,0 +1,8 @@
+[package]
+name = "pbfixer"
+version = "0.1.0"
+authors = ["Florian Merz <flomerz@gmail.com>"]
+
+[dependencies]
+clap = "2.30"
+protobuf = "1.4.3"
